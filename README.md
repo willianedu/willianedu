@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  Sou um estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e focado em desenvolvimento Front-End. Atualmente, estou aprimorando minhas habilidades em HTML, CSS e JavaScript para criar interfaces de usuário intuitivas e responsivas.
+  Sou um estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e focado em desenvolvimento Front-End. Atualmente, estou aprimorando minhas habilidades para criar interfaces de usuário intuitivas e responsivas.
 </p>
 
 ## 💻 Tecnologias que estou estudando
