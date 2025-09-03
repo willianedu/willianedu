@@ -16,7 +16,7 @@
 
 ## ✨ Projetos em Destaque
 
-### 🎧 Central de Audiolivros
+### 🎧 Central Audiolivros
 - **Descrição**: Uma página web que organiza e apresenta informações sobre audiolivros.
 - **Tecnologias**: HTML5, CSS3, JavaScript (ES6+).
 - **Link para o repositório**: [Clique aqui](https://github.com/willianedu/CentralAudiolivros)
